@@ -1,5 +1,4 @@
 # Solution-to-the-book-A-collection-of-Data-Science-Take-home-Challenges-
-My python hands-on exercise on data wrangling and modeling
 
 This repository is for self-learning purpose. I am sharing my work and hopefully will help you with hands-on data science work.The original book is available at https://datamasked.com/. 
 
