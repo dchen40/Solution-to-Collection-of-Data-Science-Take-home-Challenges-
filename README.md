@@ -1,6 +1,6 @@
 # Solution-to-the-book-A-collection-of-Data-Science-Take-home-Challenges-
 
-This repository is for self-learning purpose. I am sharing my work and hopefully will help you with hands-on data science work.The original book is available at https://datamasked.com/. 
+This repository is for self-learning purpose. The original book is available at https://datamasked.com/ and I find it's a good resource to practise the hand-on data science technique. I am happy to share my solution with you and please let me know if you have any suggestions to my work.
 
 1. Conversion Rate
 
