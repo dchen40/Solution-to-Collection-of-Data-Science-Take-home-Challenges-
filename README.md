@@ -1,5 +1,10 @@
 # DS_takehome:My-solution-to-the-book-A-collection-of-Data-Science-Take-home-Challenges-
 My python hands-on exercise on data wrangling and modeling
+
+This repository is for self-learning purpose. I am sharing my work 
+
+I am really happy if my solution is helpful to you. However, I won't provide the original book or the data files. If you want to do the exercise, you can go to https://datamasked.com/ to purchase the book. Please respect the author of the original work.
+
 1. Conversion Rate
 
 2. Spanish Translation A/B Test Employee Retention
