@@ -4,22 +4,40 @@ This repository is for self-learning purpose. The original book is available at 
 
 1. Conversion Rate
 
-2. Spanish Translation A/B Test Employee Retention
+2. Spanish Translation A/B Test 
 
-3. Identifying Fraudulent Activities Funnel Analysis
+3. Employee Retention
 
-4. Pricing Test
+4. Identifying Fraudulent Activities 
 
-5. Marketing Email Campaign
+5. Funnel Analysis
 
-6. Song Challenge
+6. Pricing Test
 
-7. Clustering Grocery Items Credit Card Transactions
+7. Marketing Email Campaign
 
-8. User Referral Program Loan granting
+8. Song Challenge
 
-9. Json City Similarities
+9. Clustering Grocery Items 
 
-10. Optimization of Employee Shuttle Stops
+10. Credit Card Transactions
 
-11. Diversity in the Workplace URL Parsing Challenge Engagement Test
+11. User Referral Program 
+
+12. Loan granting
+
+13. Json City Similarities
+
+14. Optimization of Employee Shuttle Stops
+
+15. Diversity in the Workplace 
+
+16. URL Parsing Challenge 
+
+17. Engagement Test
+
+18. On-Line Video Challenge 
+
+19. Subscription Retention Rate 
+
+20. Ads Analysis
