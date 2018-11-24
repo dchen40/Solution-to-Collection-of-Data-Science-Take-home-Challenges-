@@ -1,4 +1,4 @@
-# Solution to "A collection of Data Science Take-Home Challenges"
+# Solution to "A Collection of Data Science Take-Home Challenges"
 
 This repository is for self-learning purpose. The original book is available at https://datamasked.com/ and I find it's a good resource to practise the hand-on data science technique. I am happy to share my solution with you and hopefully you find it helpful.
 
